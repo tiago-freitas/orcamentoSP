@@ -1,0 +1,14 @@
+CATEGORIA DE DESPESA;categorias de despesa
+GRUPO DE DESPESA;grupos de despesa
+MODALIDADE;modalidades
+ELEMENTO DE DESPESA;elementos de despesa
+ITEM DE DESPESA;itens de despesa
+FONTE DE RECURSOS;fontes de recursos
+ORGAO;orgãos
+UNIDADE ORCAMENTARIA;unidades orçamentárias
+UNIDADE GESTORA;unidades gestoras
+PROGRAMA;programas
+ACAO;ações
+CREDOR;credores
+FUNCAO;funções
+SUBFUNCAO;subfunções

@@ -1,0 +1,4 @@
+VALOR EMPENHADO;valores empenhados
+VALOR LIQUIDADO;valores liquidados
+VALOR PAGO;valores pagos
+VALOR PAGO DE ANOS ANTERIORES;valores pagos de anos anteriores
